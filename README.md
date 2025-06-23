@@ -29,7 +29,7 @@ Tools:         Git · Docker · Figma
 
 ## 📫 Let's connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rodrigoperestrelo)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rssperestrelo)  
 <!-- - 💻 Personal Site: [rodrigoperestrelo.dev](https://rodrigoperestrelo.dev) *(coming soon)* -->
 - 📬 Email: [rodrigo.perestrelo@icloud.com](mailto:rodrigo.perestrelo@icloud.com)
 
