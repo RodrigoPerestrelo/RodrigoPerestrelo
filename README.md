@@ -5,10 +5,11 @@ I'm a Computer Science & Engineering student at Instituto Superior Técnico and 
 ## 🚀 Currently working on
 
 - 🧠 Full-Stack Dev. Projects
+- 💼 Part-time DevOps Engineer @ Premium Minds
 
 ## 🎓 Academic interests
 
-- Machine Learning · Deep Learning · Data Engineering  
+- Data Engineering · Cloud · DevOps  
 - Fullstack & Distributed Systems · Product & UX Thinking
 
 ## 🧠 Highlights
@@ -24,7 +25,7 @@ I'm a Computer Science & Engineering student at Instituto Superior Técnico and 
 Languages:     Java · C/C++ · JS/TS · HTML/CSS · SQL · Python
 
 
-Tools:         Git · Docker · Figma · Keycloak · Jenkins
+Tools:         Git · Docker · Figma · Keycloak · Jenkins · Rundeck
 
 
 ## 📫 Let's connect!
