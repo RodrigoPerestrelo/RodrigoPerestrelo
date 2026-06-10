@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Perestrelo 👋
 
-I'm a Computer Science & Engineering student at Instituto Superior Técnico and a Product Management postgrad at CMU Portugal. Passionate about technology, community-driven innovation, and solving real-world problems.
+Passionate about technology, community-driven innovation, and solving real-world problems.
 
 <!-- -  ## Currently working on -->
 
@@ -9,7 +9,7 @@ I'm a Computer Science & Engineering student at Instituto Superior Técnico and 
 ## Academic interests
 
 - Cloud · DevOps · Networking · Infrastructure
-- Data Engineering · Product Management 
+- SRE · Product Management 
 
 ## 📫 Let's connect!
 
